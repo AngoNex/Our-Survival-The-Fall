@@ -1,0 +1,833 @@
+[15:39:13] [main/INFO]: ModLauncher running: args [--username, AngoNex, --version, Our Survival The Fall, --gameDir, C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall, --assetsDir, C:\Users\BOOSS\AppData\Roaming\.minecraft\assets, --assetIndex, 1.18, --uuid, caa7756c282649b89046cc395743054c, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 40.1.80, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[15:39:13] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[15:39:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/BOOSS/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[15:39:16] [main/INFO]: Found mod file [Universal]CTOV-v2-9-2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file architectury-4.9.84-forge.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file ars_elemental-1.18.2-0.4.9.7.7.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file ars_nouveau-1.18.2-2.7.8.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file artifacts-1.18.2-4.2.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file AutoRegLib-1.7-53.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file awesomedungeon-forge-1.18.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file balm-3.2.0+0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file BiomesOPlenty-1.18.2-16.0.0.109-universal.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file Bookshelf-Forge-1.18.2-13.2.50.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file born_in_chaos_1.18_1.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file caelus-forge-1.18.1-3.0.0.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file canary-mc1.18.2-0.0.8.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file Chunk+Pregenerator-1.18-4.1.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file Clumps-forge-1.18.2-8.0.0+15.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file cofh_core-1.18.2-9.0.0.24.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file configured-2.0.0-1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file Controlling-forge-1.18.2-9.0+22.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file create-1.18.2-0.5.0.e.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file curios-forge-1.18.2-5.0.7.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file CuriosQuarkOBP-1.18.2-1.1.4.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file curious-armor-stands-1.18.1-4.0.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file CustomSkinLoader_ForgeActive-14.13.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file dungeons_enhanced-1.18.2-3.2.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.18.2-10.0.9.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:16] [main/INFO]: Found mod file ensorcellation-1.18.2-3.0.0.10.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file etched-forge-2.2.0+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file expandability-6.0.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file FastFurnace-1.18.2-6.0.3.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file FastWorkbench-1.18.2-6.1.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file flywheel-forge-1.18.2-0.6.5.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file furnish-1.18-0.6-fix1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file geckolib-forge-1.18-3.0.41.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file gravestone-1.18.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file ImmersiveEngineering-1.18.2-8.2.2-154.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file jei-1.18.2-9.7.1.255.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file journeymap-1.18.2-5.8.5-forge.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file Kobolds-2.1.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file krypton-0.1.10-SNAPSHOT.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file libraryferret-forge-1.18.2-3.0.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file merenc-forge-1.18.x-v1.9.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file ModernUI-1.18.2-3.5.4.113-universal.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file mowziesmobs-1.5.30.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file nocube's_sea_dwellers_2.2.0_forge_1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.5.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file Origins-1.18.2-1.4.1.4-unified.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file origins-accessbilities-1.18.2-1.0.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file origins-classes-forge-1.1.6.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file Patchouli-1.18.2-71.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file Placebo-1.18.2-6.6.4.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file pollen-forge-1.5.0+1.18.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file ProjectE-1.18.2-PE1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file Quark-3.2-358.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file QuarkOddities-1.18.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file rare-ice-0.4.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file rubidium-0.5.4.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file rubidium_extras-1.18.2_v1.3.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file saturn-mc1.18.2-0.0.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file selene-1.18.2-1.17.9.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file SimpleLogin-1.18.2-1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file smoothboot-mc1.18.2-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.2-3.18.29.718.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file sophisticatedcore-1.18.2-0.5.13.132.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file sophisticatedstorage-1.18.2-0.5.17.152.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file spells_and_shields-1.18.2-1.9.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file starlight-1.0.2+forge.546ae87.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file structure_gel-1.18.2-2.4.7.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file supplementaries-1.18.2-1.5.9.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.2.0.126.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file Terralith_v2.2.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file Tough+As+Nails-1.18.2-7.0.0.69.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file TravelersTitles-1.18.2-Forge-2.1.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file tumbleweed-1.18-0.4.12.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file waystones-forge-1.18.2-10.1.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file whisperwoods-1.18.2-2.1.0-forge.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file YungsApi-1.18.2-Forge-2.0.8.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file YungsBetterDungeons-1.18.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file YungsBetterMineshafts-1.18.2-Forge-2.2.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file YungsBetterStrongholds-1.18.2-Forge-2.1.1.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file YungsBridges-1.18.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/INFO]: Found mod file YungsExtras-1.18.2-Forge-2.1.0.jar of type MOD with provider {mods folder locator at C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\mods}
+[15:39:17] [main/WARN]: Mod file C:\Users\BOOSS\AppData\Roaming\.minecraft\libraries\net\minecraftforge\fmlcore\1.18.2-40.1.80\fmlcore-1.18.2-40.1.80.jar is missing mods.toml file
+[15:39:17] [main/WARN]: Mod file C:\Users\BOOSS\AppData\Roaming\.minecraft\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.1.80\javafmllanguage-1.18.2-40.1.80.jar is missing mods.toml file
+[15:39:17] [main/WARN]: Mod file C:\Users\BOOSS\AppData\Roaming\.minecraft\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.1.80\lowcodelanguage-1.18.2-40.1.80.jar is missing mods.toml file
+[15:39:17] [main/WARN]: Mod file C:\Users\BOOSS\AppData\Roaming\.minecraft\libraries\net\minecraftforge\mclanguage\1.18.2-40.1.80\mclanguage-1.18.2-40.1.80.jar is missing mods.toml file
+[15:39:17] [main/INFO]: Found mod file fmlcore-1.18.2-40.1.80.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2516fc68
+[15:39:17] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.1.80.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2516fc68
+[15:39:17] [main/INFO]: Found mod file lowcodelanguage-1.18.2-40.1.80.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2516fc68
+[15:39:17] [main/INFO]: Found mod file mclanguage-1.18.2-40.1.80.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2516fc68
+[15:39:17] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2516fc68
+[15:39:17] [main/INFO]: Found mod file forge-1.18.2-40.1.80-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@2516fc68
+[15:39:17] [main/INFO]: Found 1 dependencies adding them to mods collection
+[15:39:17] [main/INFO]: Found mod file Registrate-MC1.18.2-1.1.3.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@982bb90
+[15:39:23] [main/INFO]: Compatibility level set to JAVA_17
+[15:39:24] [main/INFO]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[15:39:24] [main/INFO]: Launching target 'forgeclient' with arguments [--version, Our Survival The Fall, --gameDir, C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall, --assetsDir, C:\Users\BOOSS\AppData\Roaming\.minecraft\assets, --uuid, caa7756c282649b89046cc395743054c, --username, AngoNex, --assetIndex, 1.18, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width, 925, --height, 530]
+[15:39:24] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[15:39:24] [main/INFO]: Loaded configuration file for Rubidium: 29 options available, 0 override(s) found
+[15:39:24] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:39:24] [main/WARN]: Reference map 'yungsbridges.refmap.json' for yungsbridges_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:39:24] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:39:24] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:39:24] [main/INFO]: Loaded configuration file for Canary: 102 options available, 0 override(s) found
+[15:39:28] [main/INFO]: Smooth Boot (Forge) config initialized
+[15:39:41] [Render thread/WARN]: Assets URL 'union:/C:/Users/BOOSS/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23136!/assets/.mcassetsroot' uses unexpected schema
+[15:39:41] [Render thread/WARN]: Assets URL 'union:/C:/Users/BOOSS/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%23136!/data/.mcassetsroot' uses unexpected schema
+[15:39:41] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:39:41] [Render thread/INFO]: Setting user: AngoNex
+[15:39:41] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[15:39:42] [Render thread/INFO]: Promoted to OpenGL 4.6 Core Profile
+[15:39:43] [Render thread/INFO]: OpenGL vendor: ATI Technologies Inc.
+[15:39:43] [Render thread/INFO]: OpenGL renderer: Radeon RX550/550 Series
+[15:39:43] [Render thread/INFO]: OpenGL version: 4.6.14800 Core Profile Forward-Compatible Context 22.5.1 30.0.15021.11005
+[15:39:43] [Render thread/INFO]: Max texture size: 16384
+[15:39:43] [Render thread/INFO]: Max renderbuffer size: 16384
+[15:39:43] [Render thread/INFO]: Max array texture layers: 2048
+[15:39:43] [Render thread/INFO]: Preloaded modern text shaders
+[15:39:43] [modloading-worker-0/INFO]: Origins 1.18.2-1.4.1.4 is initializing. Have fun!
+[15:39:43] [modloading-worker-0/INFO]: Calio 1.18.2-1.5.1.4 initializing...
+[15:39:44] [modloading-worker-0/INFO]: Origins: Accessibilities 1.0.2 has initialized. Ready to make your Origins life easier!
+[15:39:44] [modloading-worker-0/WARN]: Static binding violation: PRIVATE @Overwrite method m_104290_ in rubidium.mixins.json:features.entity.fast_render.MixinModelPart cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[15:39:44] [modloading-worker-0/INFO]: Registered Furnish Containers.
+[15:39:44] [modloading-worker-0/INFO]: libraryferret - > Initialize library
+[15:39:44] [modloading-worker-0/INFO]: Registered Furnish Recipes Serializers.
+[15:39:44] [modloading-worker-0/INFO]: Registered Furnish Entities.
+[15:39:44] [modloading-worker-0/INFO]: Registered Furnish Tile Entities.
+[15:39:44] [modloading-worker-0/INFO]: Registered Furnish Sounds.
+[15:39:44] [modloading-worker-0/INFO]: libraryferret - > Initialized library
+[15:39:45] [modloading-worker-0/INFO]: Apoli 1.18.2-2.3.3.6 has initialized. Ready to power up your game!
+[15:39:46] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[15:39:46] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[15:39:46] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[15:39:46] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[15:39:46] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[15:39:46] [modloading-worker-0/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[15:39:46] [modloading-worker-0/INFO]: Forge mod loading, version 40.1.80, for MC 1.18.2 with MCP 20220404.173914
+[15:39:46] [modloading-worker-0/INFO]: MinecraftForge v40.1.80 Initialized
+[15:39:46] [modloading-worker-0/INFO]: Loaded config file.
+[15:39:46] [modloading-worker-0/INFO]: Saved config file.
+[15:39:48] [modloading-worker-0/INFO]: Registering S2C receiver with id architectury:sync_ids
+[15:39:48] [modloading-worker-0/INFO]: Registering C2S receiver with id architectury:sync_ids
+[15:39:48] [modloading-worker-0/INFO]: Registering C2S receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
+[15:39:48] [modloading-worker-0/INFO]: Registering S2C receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
+[15:39:48] [modloading-worker-0/INFO]: Registering C2S receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
+[15:39:48] [modloading-worker-0/INFO]: Registering S2C receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
+[15:39:48] [modloading-worker-0/INFO]: Spooking you...
+[15:39:48] [modloading-worker-0/INFO]: No shaders mod detected.
+[15:39:49] [modloading-worker-0/INFO]: Origins:Classes 1.1.6 has initialized. Time for work!
+[15:39:49] [modloading-worker-0/INFO]: Detected new forge version, registering events reflectively.
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.BigDungeonModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.NoteBlockMobSoundsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.CameraModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FrogsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[15:39:49] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.management.module.ChestsInBoatsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.ZombieVillagersOnNormalModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybind
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.OrientalPaletteModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[15:39:50] [modloading-worker-0/INFO]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[15:39:50] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT
+[15:39:50] [modloading-worker-0/INFO]: Dispatching Module Step CONSTRUCT_CLIENT
+[15:39:50] [modloading-worker-0/INFO]: Initialized Modern UI text engine
+[15:39:50] [modloading-worker-0/INFO]: Initialized Modern UI client
+[15:39:50] [modloading-worker-0/INFO]: Initialized Modern UI, FML mods: 84
+[15:39:51] [modloading-worker-0/INFO]: ExpandAbility here, who dis?
+[15:39:53] [Render thread/INFO]: Potentially Dangerous alternative prefix `rare-ice` for name `rare_ice`, expected `rare_ice`. This could be a intended override, but in most cases indicates a broken mod.
+[15:39:56] [Render thread/INFO]: Dispatching Module Step REGISTER
+[15:39:57] [Render thread/INFO]: Dispatching Module Step POST_REGISTER
+[15:39:58] [Render thread/INFO]: Registered Furnish Items.
+[15:39:58] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[15:39:58] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `iron_horse_armor`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[15:39:58] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `golden_horse_armor`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[15:39:58] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `diamond_horse_armor`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[15:39:58] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `leather_horse_armor`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[15:39:58] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `shield`, expected `cofh_core`. This could be a intended override, but in most cases indicates a broken mod.
+[15:39:59] [Render thread/INFO]: Potentially Dangerous alternative prefix `rare-ice` for name `rare_ice`, expected `rare_ice`. This could be a intended override, but in most cases indicates a broken mod.
+[15:40:00] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[15:40:00] [Render thread/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[15:40:00] [Render thread/INFO]: Registered Furnish Paintings.
+[15:40:01] [Render thread/INFO]: Potentially Dangerous alternative prefix `rare-ice` for name `rare_ice`, expected `rare_ice`. This could be a intended override, but in most cases indicates a broken mod.
+[15:40:01] [Render thread/INFO]: Dungeons Enhanced structures loaded
+[15:40:02] [Render thread/ERROR]: Some mod loaded the Sheets class to early! This causes the banner texture maps to not contain modded patterns. Supplementaries will not attempt to fix...
+[15:40:03] [Render thread/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\growing-patterns.json5" was read.
+[15:40:03] [Render thread/INFO]: UI manager initialized
+[15:40:04] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[15:40:04] [Render thread/WARN]: Could not locate JEI keybindings, lookups in books may not work
+[15:40:04] [Render thread/INFO]: Registering model layer quark:crab#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:shiba#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:frog#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:wraith#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:forgotten_hat#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:stoneling#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:toretoise#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:quark_boat#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:foxhound#main
+[15:40:04] [Render thread/INFO]: Registering model layer quark:backpack#main
+[15:40:04] [Render thread/INFO]: Registered Furnish Entity/BlockEntity Renderers.
+[15:40:04] [UI thread/INFO]: UI thread initialized in 859ms
+[15:40:05] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources, Quark Programmer Art.zip, Enhanced-Audio.zip, aBetterBushyLeaves7_1.18.2_v1.0.zip, Visiblesoulsv1.1.zip, Dyes-From-Terraria-1.18.zip, quark-emote-pack, Supplementaries Generated Pack, Unity-1.18.X-Dark-0.9.1.zip
+[15:40:05] [Render thread/INFO]: Loaded 0 resource modifiers
+[15:40:06] [Render thread/INFO]: Generated runtime CLIENT_RESOURCES for pack Supplementaries Generated Pack in: 535 ms
+[15:40:07] [modloading-worker-0/INFO]: Font Noto Sans failed to load or invalid
+[15:40:07] [modloading-worker-0/INFO]: Font San Francisco failed to load or invalid
+[15:40:07] [modloading-worker-0/INFO]: Font STHeiti failed to load or invalid
+[15:40:07] [modloading-worker-0/INFO]: Font SimHei failed to load or invalid
+[15:40:07] [modloading-worker-0/INFO]: Loaded typeface: {Minecraft,Segoe UI,Source Han Sans CN Medium,Calibri,Microsoft YaHei UI,SansSerif}
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registering data for structure_gel:biome_dictionary
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registering data for structure_gel:loot_table_alias
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registering data for structure_gel:data_handler_type
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registering data for structure_gel:dynamic_spawner
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:skyris_vale to [structure_gel:mountain, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:temperate_grove to [structure_gel:plains, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:autumnal_forest to [structure_gel:wooded, structure_gel:humid, structure_gel:autumn_forest, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:zelkova_forest to [structure_gel:spruce_forest, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:sythian_torrids to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:dacite_ridges to [structure_gel:mountain, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:sierra_badlands to [structure_gel:plains, structure_gel:warm]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:borealis_grove to [structure_gel:wooded, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:cryptic_wastes to [structure_gel:neutral_temp, structure_gel:the_end, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:lush_stacks to [structure_gel:neutral_temp, structure_gel:ocean]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:black_forest to [structure_gel:spruce_forest, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:ethereal_islands to [structure_gel:neutral_temp, structure_gel:the_end, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:warped_desert to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:rainbow_beach to [structure_gel:neutral_temp, structure_gel:beach]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:jacaranda_forest to [structure_gel:neutral_temp, structure_gel:jungle]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:allium_fields to [structure_gel:plains, structure_gel:flowery, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:forgotten_forest to [structure_gel:wooded, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:windswept_dunes to [structure_gel:desert, structure_gel:hot, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:bulbis_gardens to [structure_gel:neutral_temp, structure_gel:the_end, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:imparius_grove to [structure_gel:neutral_temp, structure_gel:the_end, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:embur_bog to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:dead_sea to [structure_gel:hot, structure_gel:ocean]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:aspen_forest to [structure_gel:wooded, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:glowstone_gardens to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:redwood_thicket to [structure_gel:wooded, structure_gel:humid, structure_gel:neutral_temp, structure_gel:redwood_forest]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:viscal_isles to [structure_gel:neutral_temp, structure_gel:the_end, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:frosted_taiga to [structure_gel:snowy_spruce_forest, structure_gel:snowy]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:guiana_shield to [structure_gel:humid, structure_gel:neutral_temp, structure_gel:jungle]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:windswept_desert to [structure_gel:desert, structure_gel:hot, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:weeping_witch_forest to [structure_gel:wooded, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:nightshade_forest to [structure_gel:neutral_temp, structure_gel:the_end, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:brimstone_caverns to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether, structure_gel:cave]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:mojave_desert to [structure_gel:desert, structure_gel:hot, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:twilight_meadow to [structure_gel:wooded, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:cherry_blossom_forest to [structure_gel:wooded, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:atacama_desert to [structure_gel:desert, structure_gel:hot, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:autumnal_valley to [structure_gel:plains, structure_gel:neutral_temp, structure_gel:autumn_forest]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:red_rock_valley to [structure_gel:desert, structure_gel:warm]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:amaranth_fields to [structure_gel:plains, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:crag_gardens to [structure_gel:neutral_temp, structure_gel:jungle]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:magma_wastes to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:windswept_beach to [structure_gel:neutral_temp, structure_gel:beach]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:prairie to [structure_gel:plains, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:maple_taiga to [structure_gel:spruce_forest, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:baobab_savanna to [structure_gel:dry, structure_gel:warm, structure_gel:savanna]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:araucaria_savanna to [structure_gel:dry, structure_gel:warm, structure_gel:savanna]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:rose_fields to [structure_gel:plains, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:bayou to [structure_gel:neutral_temp, structure_gel:swamp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:subzero_hypogeal to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:ebony_woods to [structure_gel:wooded, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:shulkren_forest to [structure_gel:neutral_temp, structure_gel:the_end, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:crimson_gardens to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:arisian_undergrowth to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:temperate_rainforest to [structure_gel:wooded, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:firecracker_shrubland to [structure_gel:desert, structure_gel:hot]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:red_oak_forest to [structure_gel:wooded, structure_gel:humid, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:cypress_swamplands to [structure_gel:swamp, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:shattered_glacier to [structure_gel:humid, structure_gel:snowy]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:canadian_shield to [structure_gel:snowy, structure_gel:snowy_mountain, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:dacite_shore to [structure_gel:mountain, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:autumnal_taiga to [structure_gel:autumn_forest, structure_gel:spruce_forest, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:white_mangrove_marshes to [structure_gel:neutral_temp, structure_gel:swamp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:tropical_rainforest to [structure_gel:humid, structure_gel:neutral_temp, structure_gel:tropical, structure_gel:jungle]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:wailing_garth to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:fragment_forest to [structure_gel:wooded, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:cardinal_tundra to [structure_gel:snowy, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:cika_woods to [structure_gel:wooded, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:howling_peaks to [structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:ivis_fields to [structure_gel:neutral_temp, structure_gel:the_end, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered quark:glimmering_weald to [structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:quartz_desert to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:weeping_mire to [structure_gel:hot, structure_gel:dry, structure_gel:the_nether]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:orchard to [structure_gel:plains, structure_gel:neutral_temp]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered terrablender:deferred_placeholder to [structure_gel:neutral_temp, structure_gel:dry]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:basalt_barrera to [structure_gel:neutral_temp, structure_gel:beach]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:frosted_coniferous_forest to [structure_gel:snowy_spruce_forest, structure_gel:snowy, structure_gel:coniferous_forest]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:coniferous_forest to [structure_gel:spruce_forest, structure_gel:coniferous_forest, structure_gel:cold]
+[15:40:07] [modloading-worker-0/INFO]: [Structure Gel] Registered byg:coconino_meadow to [structure_gel:plains, structure_gel:neutral_temp]
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Redstone Randomizer
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Pistons Move Tile Entities
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Obsidian Plate
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Metal Buttons
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Jukebox Automation
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Iron Rod
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Gravisand
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Feeding Trough
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Ender Watcher
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Dispensers Place Blocks
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Chute
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Chains Connect Blocks
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Wooden Posts
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Vertical Slabs
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Vertical Planks
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Variant Ladders
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Variant Furnaces
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Variant Chests
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Variant Bookshelves
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Thatch
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Sturdy Stone
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Stools
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Soul Sandstone
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Shingles
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Shear Vines
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Rope
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Oriental Palette
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Nether Brick Fence Gate
+[15:40:08] [modloading-worker-0/INFO]: Loading Module More Stone Variants
+[15:40:08] [modloading-worker-0/INFO]: Loading Module More Potted Plants
+[15:40:08] [modloading-worker-0/INFO]: Loading Module More Brick Types
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Midori
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Leaf Carpet
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Industrial Palette
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Hedges
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Grate
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Gold Bars
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Glass Item Frame
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Framed Glass
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Duskbound Blocks
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Compressed Blocks
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Celebratory Lamps
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Quick Armor Swapping
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Item Sharing
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Inventory Sorting
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Hotbar Changer
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Expanded Item Interactions
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Easy Transfering
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Chests In Boats
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Trowel
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Slime In A Bucket
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Seed Pouch
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Pickarang
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Pathfinder Maps
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Parrot Eggs
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Endermosh Music Disc
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Color Runes
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Camera
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Bundle Recipe
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Bottled Cloud
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Beacon Redirection
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Ancient Tomes
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Ambient Discs
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Abacus
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Villagers Follow Emeralds
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Vexes Die With Their Masters
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Utility Recipes
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Snow Golem Player Heads
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Simple Harvest
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Sign Editing
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Replace Scaffolding
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Reacharound Placing
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Poison Potato Usage
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Pig Litters
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Pat The Dogs
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Note Block Mob Sounds
+[15:40:08] [modloading-worker-0/INFO]: Loading Module More Banner Layers
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Lock Rotation
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Hoe Harvesting
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Grab Chickens
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Glass Shard
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Enhanced Ladders
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Emotes
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Dragon Scales
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Double Door Opening
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Compasses Work Everywhere
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Campfires Boost Elytra
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Better Elytra Rocket
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Automatic Recipe Unlock
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Armed Armor Stands
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Skull Pikes
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Spiral Spires
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Permafrost
+[15:40:08] [modloading-worker-0/INFO]: Loading Module No More Lava Pockets
+[15:40:08] [modloading-worker-0/INFO]: Loading Module New Stone Types
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Nether Obsidian Spikes
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Monster Box
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Glimmering Weald
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Fairy Rings
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Corundum
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Chorus Vegetation
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Blossom Trees
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Big Stone Clusters
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Big Dungeon
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Azalea Wood
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Wraith
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Toretoise
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Stonelings
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Shiba
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Frogs
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Foxhound
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Forgotten
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Crabs
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Variant Animal Textures
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Uses For Curses
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Usage Ticker
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Soul Candles
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Microcrafting Helper
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Improved Tooltips
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Greener Grass
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Chest Searching
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Back Button Keybind
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Auto Walk Keybind
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Zombie Villagers On Normal
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Spawner Replacer
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Overlay Shader
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Narrator Readout
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Game Nerfs
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Enchantments Begone
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Adjustable Chat
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Totem Of Holding
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Tiny Potato
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Pipes
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Matrix Enchanting
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Magnets
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Crate
+[15:40:08] [modloading-worker-0/INFO]: Loading Module Backpack
+[15:40:08] [modloading-worker-0/INFO]: Dispatching Module Step CONFIG_CHANGED
+[15:40:08] [modloading-worker-0/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[15:40:09] [Worker-Main-15/INFO]: Found and loaded EMC mapper: CraftingMapper, with priority 0
+[15:40:09] [Worker-Main-15/INFO]: Found and loaded EMC mapper: APICustomEMCMapper, with priority 0
+[15:40:09] [Worker-Main-15/INFO]: Found and loaded EMC mapper: RawOresBlacklistMapper, with priority 0
+[15:40:09] [Worker-Main-15/INFO]: Found and loaded EMC mapper: BrewingMapper, with priority 0
+[15:40:09] [Worker-Main-15/INFO]: Found and loaded EMC mapper: TippedArrowMapper, with priority 0
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded EMC mapper: OresBlacklistMapper, with priority 0
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded EMC mapper: WeatheredCopperMapper, with priority 0
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded EMC mapper: CustomConversionMapper, with priority 0
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded EMC mapper: CustomEMCMapper, with priority 0
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded RecipeType Mapper: Smithing, with priority 0
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded RecipeType Mapper: FallbackRecipeType, with priority -2147483648
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded RecipeType Mapper: VanillaRecipeTypes, with priority 0
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded NBT Processor: EnchantmentProcessor, with priority 0
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded NBT Processor: DamageProcessor, with priority 2147483647
+[15:40:10] [Worker-Main-15/INFO]: Found and loaded NBT Processor: StoredEMCProcessor, with priority 0
+[15:40:10] [Worker-Main-14/INFO]: Found @Ljourneymap/client/api/ClientPlugin;: net.blay09.mods.waystones.compat.JourneyMapAddon
+[15:40:10] [Worker-Main-17/INFO]: Summoning a hidebehind to eat you...
+[15:40:10] [Immersive Engineering Contributors Thread/INFO]: Attempting to download special revolvers from GitHub
+[15:40:11] [Worker-Main-16/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:40:11] [Worker-Main-13/INFO]: Dispatching Module Step CONFIG_CHANGED
+[15:40:11] [Worker-Main-13/INFO]: Dispatching Module Step CONFIG_CHANGED_CLIENT
+[15:40:11] [Worker-Main-13/INFO]: Dispatching Module Step SETUP
+[15:40:11] [Worker-Main-12/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:40:11] [Worker-Main-14/INFO]: BYG: "Common Setup" Event Complete!
+[15:40:11] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\end-biomes.json5" was read.
+[15:40:11] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\nether-biomes.json5" was read.
+[15:40:12] [Worker-Main-7/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:40:12] [Worker-Main-17/INFO]: Compression will use Java, encryption will use Java
+[15:40:12] [Forge Version Check/INFO]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.18.x/update.json
+[15:40:12] [Worker-Main-5/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:40:13] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\overworld\byg-overworld-biomes.json5" was read.
+[15:40:13] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\byg-biome-dictionary.json" was read.
+[15:40:13] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[15:40:13] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[15:40:13] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\surface_rules\end_surface_rules.json5" was read.
+[15:40:13] [Worker-Main-8/INFO]: Dispatching Module Step MODEL_REGISTRY
+[15:40:13] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\trades.json5" was read.
+[15:40:14] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\settings.json5" was read.
+[15:40:14] [Worker-Main-14/INFO]: "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\biomepedia.json5" was read.
+[15:40:14] [Forge Version Check/INFO]: [projecte] Found status: AHEAD Current: 1.0.1 Target: null
+[15:40:14] [Forge Version Check/INFO]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.18.2
+[15:40:14] [Worker-Main-14/INFO]: Created compressed zip back up for "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg" in "C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our Survival The Fall\config\byg\backups\last_working_configs_backup.zip"
+[15:40:14] [Worker-Main-14/INFO]: BYG: Added strippable Blocks...
+[15:40:14] [Forge Version Check/INFO]: [clumps] Found status: BETA Current: 8.0.0+15 Target: 8.0.0+15
+[15:40:14] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[15:40:15] [Forge Version Check/INFO]: [journeymap] Found status: UP_TO_DATE Current: 5.8.5 Target: null
+[15:40:15] [Forge Version Check/INFO]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.18.2
+[15:40:15] [Forge Version Check/INFO]: [controlling] Found status: BETA Current: 9.0+22 Target: 9.0+22
+[15:40:15] [Forge Version Check/INFO]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[15:40:15] [Worker-Main-3/INFO]: Loaded 0 hash tables.
+[15:40:15] [Render thread/INFO]: Initializing Packet Registries
+[15:40:15] [Render thread/INFO]: Finished mod setup in: 85 ms
+[15:40:15] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[15:40:15] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[15:40:15] [Render thread/INFO]: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
+[15:40:15] [Render thread/INFO]: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
+[15:40:15] [Render thread/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[15:40:15] [Render thread/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[15:40:15] [Render thread/INFO]: Loaded text layout engine, resolution level: 2.0, locale: en_US, layout RTL: false
+[15:40:16] [Forge Version Check/INFO]: [configured] Found status: BETA Current: 2.0.0 Target: 2.0.0
+[15:40:16] [Forge Version Check/INFO]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.18.2
+[15:40:16] [Render thread/INFO]: Initializing BYG network...
+[15:40:16] [Render thread/INFO]: Initialized BYG network!
+[15:40:16] [Forge Version Check/INFO]: [bookshelf] Found status: BETA Current: 13.2.50 Target: 13.2.50
+[15:40:16] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15:40:16] [Render thread/INFO]: Registered region byg:region_0 to index 3 for type OVERWORLD
+[15:40:16] [Render thread/INFO]: Registered region byg:region_1 to index 4 for type OVERWORLD
+[15:40:16] [Render thread/INFO]: Registered region byg:region_2 to index 5 for type OVERWORLD
+[15:40:16] [Render thread/INFO]: Registered region byg:region_3 to index 6 for type OVERWORLD
+[15:40:16] [Worker-Main-2/ERROR]: Mod: geckolib3 is using deprecated Pollen animations. Animations should be relocated to 'assets/geckolib3/pinwheel/animations'
+[15:40:16] [Worker-Main-2/ERROR]: Mod: geckolib3 is using deprecated Pollen animations. Animations should be relocated to 'assets/geckolib3/pinwheel/animations'
+[15:40:16] [Worker-Main-2/ERROR]: Mod: geckolib3 is using deprecated Pollen animations. Animations should be relocated to 'assets/geckolib3/pinwheel/animations'
+[15:40:16] [Worker-Main-2/ERROR]: Mod: geckolib3 is using deprecated Pollen animations. Animations should be relocated to 'assets/geckolib3/pinwheel/animations'
+[15:40:16] [Forge Version Check/INFO]: [forge] Found status: AHEAD Current: 40.1.80 Target: null
+[15:40:16] [Forge Version Check/INFO]: [cofh_core] Starting version check at https://raw.github.com/cofh/version/master/cofh_core/update.json
+[15:40:16] [Placebo Patreon Trail Loader/INFO]: Loading patreon trails data...
+[15:40:16] [Worker-Main-2/INFO]: Registered Furnish Screens.
+[15:40:16] [Worker-Main-2/INFO]: Increasing wispiness of wisps...
+[15:40:16] [Worker-Main-7/INFO]: Dispatching Module Step SETUP_CLIENT
+[15:40:16] [Worker-Main-11/INFO]: Loaded modern text engine
+[15:40:16] [Worker-Main-15/INFO]: BYG: "Client Setup" Event Complete!
+[15:40:16] [Placebo Patreon Trail Loader/INFO]: Loaded 23 patreon trails.
+[15:40:17] [Render thread/INFO]: Created OpenGL surface canvas
+[15:40:17] [Placebo Patreon Wing Loader/INFO]: Loading patreon wing data...
+[15:40:17] [Placebo Patreon Wing Loader/INFO]: Loaded 18 patreon wings.
+[15:40:17] [Forge Version Check/INFO]: [cofh_core] Found status: AHEAD Current: 9.0.0.24 Target: null
+[15:40:17] [Forge Version Check/INFO]: [ensorcellation] Starting version check at https://raw.github.com/cofh/version/master/ensorcellation/update.json
+[15:40:17] [Forge Version Check/INFO]: [ensorcellation] Found status: AHEAD Current: 3.0.0.10 Target: null
+[15:40:17] [Forge Version Check/INFO]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.18.2
+[15:40:17] [Forge Version Check/INFO]: [enchdesc] Found status: BETA Current: 10.0.9 Target: 10.0.9
+[15:40:17] [Forge Version Check/INFO]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/1.18.2/changelog.json
+[15:40:17] [Forge Version Check/INFO]: [immersiveengineering] Found status: UP_TO_DATE Current: 1.18.2-8.2.2-154 Target: null
+[15:40:17] [Forge Version Check/INFO]: [flywheel] Starting version check at https://api.modrinth.com/updates/5lpsZoRi/forge_updates.json
+[15:40:17] [Worker-Main-4/INFO]: Loaded 0 model texture tables.
+[15:40:18] [Forge Version Check/INFO]: [flywheel] Found status: UP_TO_DATE Current: 0.6.5 Target: null
+[15:40:18] [Forge Version Check/INFO]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[15:40:18] [Worker-Main-14/INFO]: Loaded 0 geometry models.
+[15:40:18] [Worker-Main-3/INFO]: Loaded 1 geometry models.
+[15:40:18] [Render thread/INFO]: Journeymap Initializing
+[15:40:18] [Render thread/INFO]: JourneyMap log initialized.
+[15:40:18] [Render thread/INFO]: initialize ENTER
+[15:40:18] [Render thread/INFO]: [ClientAPI] built with JourneyMap API 1.8-SNAPSHOT
+[15:40:18] [Render thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[15:40:18] [Render thread/INFO]: Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
+[15:40:18] [Forge Version Check/INFO]: [gravestone] Found status: OUTDATED Current: 1.18.2-1.0.1 Target: 1.18.2-1.0.2
+[15:40:18] [Render thread/INFO]: initialize EXIT, elapsed count 1 avg 561,67ms
+[15:40:18] [Render thread/INFO]: Cleanup 1 text layout entries, rehash: false
+[15:40:40] [Worker-Main-8/WARN]: Unable to load model: 'minecraft:grudbone' referenced from: born_in_chaos_v1:gnawed_bones#facing=north,waterlogged=true: java.io.FileNotFoundException: minecraft:models/grudbone.json
+[15:40:42] [Worker-Main-8/WARN]: Exception loading blockstate definition: byg:blockstates/potted_hydrangea_bush.json: java.io.FileNotFoundException: byg:blockstates/potted_hydrangea_bush.json
+[15:40:42] [Worker-Main-8/WARN]: Exception loading blockstate definition: 'byg:blockstates/potted_hydrangea_bush.json' missing model for variant: 'byg:potted_hydrangea_bush#'
+[15:41:00] [Worker-Main-8/WARN]: Unable to load model: 'minecraft:staffmagicarrows' referenced from: born_in_chaos_v1:staffof_magic_arrows#inventory: java.io.FileNotFoundException: minecraft:models/staffmagicarrows.json
+[15:41:00] [Worker-Main-8/WARN]: Unable to load model: 'minecraft:boncolerstaf' referenced from: born_in_chaos_v1:staffofthe_summoner#inventory: java.io.FileNotFoundException: minecraft:models/boncolerstaf.json
+[15:41:00] [Worker-Main-8/WARN]: Unable to load model: 'minecraft:scythe' referenced from: born_in_chaos_v1:nightmare_scythe#inventory: java.io.FileNotFoundException: minecraft:models/scythe.json
+[15:41:00] [Worker-Main-8/WARN]: Unable to load model: 'minecraft:topor' referenced from: born_in_chaos_v1:great_reaper_axe#inventory: java.io.FileNotFoundException: minecraft:models/topor.json
+[15:41:00] [Worker-Main-8/WARN]: Unable to load model: 'minecraft:molotoc' referenced from: born_in_chaos_v1:skullbreaker_hammer#inventory: java.io.FileNotFoundException: minecraft:models/molotoc.json
+[15:41:00] [Worker-Main-8/WARN]: Unable to load model: 'minecraft:hayfork' referenced from: born_in_chaos_v1:trident_hayfork#inventory: java.io.FileNotFoundException: minecraft:models/hayfork.json
+[15:41:01] [Worker-Main-8/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_glowstone' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_glowstone: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_glowstone.json
+[15:41:01] [Worker-Main-8/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_gold' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_gold: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_gold.json
+[15:41:01] [Worker-Main-8/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_cryptic' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_cryptic: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_cryptic.json
+[15:41:01] [Worker-Main-8/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_copper' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_copper: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_copper.json
+[15:41:01] [Worker-Main-8/WARN]: Unable to load model: 'supplementaries:blocks/wall_lanterns/wall_lantern_brass' referenced from: supplementaries:blocks/wall_lanterns/wall_lantern_brass: java.io.FileNotFoundException: supplementaries:models/blocks/wall_lanterns/wall_lantern_brass.json
+[15:41:03] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:block/soul_lantern_hanging
+[15:41:03] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:block/soul_lantern
+[15:41:03] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:block/soul_fire_floor0
+[15:41:03] [Worker-Main-8/WARN]: Unable to resolve texture reference: #missing in minecraft:block/soul_fire_floor1
+[15:41:03] [Worker-Main-8/WARN]: Unable to resolve texture reference: #1 in projecte:block/interdiction_torch
+[15:41:03] [Worker-Main-8/WARN]: Unable to resolve texture reference: #1 in minecraft:block/redstone_torch_off
+[15:41:03] [Worker-Main-8/INFO]: Stitching Revolver Textures!
+[15:41:03] [Worker-Main-8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:41:05] [Worker-Main-17/ERROR]: Using missing texture, unable to load ars_nouveau:textures/blocks/active_outer.png : java.io.FileNotFoundException: ars_nouveau:textures/blocks/active_outer.png
+[15:41:05] [Worker-Main-17/ERROR]: Using missing texture, unable to load ars_nouveau:textures/blocks/active_middle.png : java.io.FileNotFoundException: ars_nouveau:textures/blocks/active_middle.png
+[15:41:05] [Worker-Main-5/ERROR]: Using missing texture, unable to load ars_nouveau:textures/blocks/active_inner.png : java.io.FileNotFoundException: ars_nouveau:textures/blocks/active_inner.png
+[15:41:11] [Worker-Main-8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:41:11] [Worker-Main-8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:41:11] [Worker-Main-10/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/kobold.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/kobold.png
+[15:41:11] [Worker-Main-2/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/immersiveengineering_bevels.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/immersiveengineering_bevels.png
+[15:41:11] [Worker-Main-10/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/immersiveengineering_treated_wood.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/immersiveengineering_treated_wood.png
+[15:41:11] [Worker-Main-2/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/immersiveengineering_wolf_r.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/immersiveengineering_wolf_r.png
+[15:41:11] [Worker-Main-2/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/immersiveengineering_wolf_l.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/immersiveengineering_wolf_l.png
+[15:41:11] [Worker-Main-5/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/immersiveengineering_windmill.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/immersiveengineering_windmill.png
+[15:41:11] [Worker-Main-9/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/immersiveengineering_wolf.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/immersiveengineering_wolf.png
+[15:41:11] [Worker-Main-5/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/immersiveengineering_ornate.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/immersiveengineering_ornate.png
+[15:41:11] [Worker-Main-7/ERROR]: Using missing texture, unable to load supplementaries:textures/entity/flags/immersiveengineering_hammer.png : java.io.FileNotFoundException: supplementaries:textures/entity/flags/immersiveengineering_hammer.png
+[15:41:11] [Worker-Main-8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:41:11] [Worker-Main-8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:41:11] [Worker-Main-8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:41:11] [Worker-Main-8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:41:13] [Render thread/INFO]: Loaded all shader sources.
+[15:41:13] [Worker-Main-15/INFO]: Got IMC []
+[15:41:13] [Worker-Main-15/INFO]: Dispatching Module Step LOAD_COMPLETE
+[15:41:13] [Render thread/INFO]: Journeymap PostInit
+[15:41:13] [Render thread/ERROR]: Couldn't locate icons for flat: C:\Users\BOOSS\AppData\Roaming\.minecraft\versions\Our%20Survival%20The%20Fall\mods\journeymap-1.18.2-5.8.5-forge.jar\assets\journeymap\theme\flat
+[15:41:13] [Render thread/INFO]: Preloaded theme textures: 0
+[15:41:13] [Render thread/INFO]: Update check disabled in properties file.
+[15:41:13] [Render thread/INFO]: postInitialize EXIT, elapsed count 1 avg 78,08ms
+[15:41:13] [Render thread/INFO]: Successfully loaded config provider: com.mrcrayfish.configured.impl.forge.ForgeConfigProvider
+[15:41:13] [Render thread/INFO]: Successfully loaded config provider: com.mrcrayfish.configured.impl.simple.SimpleConfigProvider
+[15:41:13] [Render thread/INFO]: Creating config GUI factories...
+[15:41:13] [Render thread/INFO]: Registering config factory for mod betterdungeons. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod mowziesmobs. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod merenc. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod oriacs. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod sophisticatedstorage. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod jei. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod furnish. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod projecte. Found 4 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod apoli. Found 3 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod sophisticatedcore. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod etched. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod ensorcellation. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod waystones. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod journeymap. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod tumbleweed. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod artifacts. Found 3 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod configured. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod cofh_core. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod sophisticatedbackpacks. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod ars_nouveau. Found 75 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod forge. Found 3 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod travelerstitles. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod structure_gel. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod pollen. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod immersiveengineering. Found 3 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod biomesoplenty. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod yungsbridges. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod dungeons_enhanced. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod calio. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod simplelogin. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod whisperwoods. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod flywheel. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod curios. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod origins. Found 3 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod patchouli. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod gravestone. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod origins_classes. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod ars_elemental. Found 11 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod yungsextras. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod toughasnails. Found 4 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod spells_and_shields. Found 2 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod betterstrongholds. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod chunkpregen. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod modernui. Found 4 config(s)
+[15:41:13] [Render thread/INFO]: Registering config factory for mod bettermineshafts. Found 1 config(s)
+[15:41:13] [Render thread/INFO]: BYG: Compostible Blocks Added!
+[15:41:13] [Render thread/INFO]: BYG: Added tillables!
+[15:41:13] [Render thread/INFO]: BYG: Added Flammables!
+[15:41:13] [Render thread/INFO]: BYG: "Load Complete" Event Complete!
+[15:41:13] [Render thread/INFO]: Registered region quark:biome_provider to index 7 for type OVERWORLD
+[15:41:17] [Render thread/WARN]: Skipped language file: computercraft:lang/en_us.json (com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 3 column 6 path $.itemGroup.computercraft)
+[15:41:18] [Render thread/WARN]: Missing sound for event: supplementaries:item.wrench.hit
+[15:41:18] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Динамики (Realtek(R) Audio)
+[15:41:18] [Render thread/INFO]: Sound engine started
+[15:41:19] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[15:41:21] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:21] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[15:41:21] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:21] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:41:21] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:21] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:41:21] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:21] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/chest.png-atlas
+[15:41:21] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:21] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:41:21] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:21] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:41:21] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:25] [Render thread/INFO]: Dispatching Module Step MODEL_BAKE
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:bookwyrm, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:starbuncle, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:whirlisprig, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:wixie, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:wilden_hunter, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:wilden_stalker, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:wilden_guardian, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:drygmy, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:wilden_boss, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:familiar_starbuncle, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:familiar_bookwyrm, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:familiar_wixie, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:familiar_whirlisprig, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:familiar_drygmy, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:cascading_weald_walker, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:blazing_weald_walker, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:vexing_weald_walker, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:flourishing_weald_walker, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_nouveau:amethyst_golem, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_elemental:siren_entity, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_elemental:siren_familiar, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_elemental:firenando_entity, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_elemental:firenando_familiar, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/WARN]: Could not apply layer to ars_elemental:flashing_weald_walker, has custom renderer that is not LivingEntityRenderer.
+[15:41:26] [Render thread/INFO]: Dispatching Module Step MODEL_LAYERS
+[15:41:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:41:29] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:29] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:41:29] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:29] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[15:41:29] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:29] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[15:41:29] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:29] [Render thread/INFO]: Loaded 4 animations.
+[15:41:29] [Worker-Main-8/INFO]: Dispatching Module Step TEXTURE_STITCH
+[15:41:29] [Render thread/INFO]: Created: 16x16x4 pollen:textures/atlas/geometry.png-atlas
+[15:41:29] [Render thread/INFO]: Dispatching Module Step POST_TEXTURE_STITCH
+[15:41:29] [Render thread/INFO]: Loaded 1 geometry models.
+[15:41:29] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 0 jsons
+[15:41:29] [Render thread/INFO]: Not reloading resource pack-based books as client world is missing
+[15:41:30] [Render thread/INFO]: Scanned emoji map size: 3688
+[15:41:30] [Render thread/INFO]: Loaded emoji shortcodes: 1927, mismatched emoji sequences: 0
+[15:41:30] [Render thread/INFO]: Reloaded text layout engine, resolution level: 2.0 to 2.0, locale: ru_RU, layout RTL: false
+[15:41:30] [Render thread/INFO]: Loaded OpenGL canvas shaders
+[15:41:30] [Render thread/INFO]: Dispatching Module Step FIRST_CLIENT_TICK
+[15:41:31] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[15:41:38] [Render thread/INFO]: Stopping!
+[15:41:38] [UI thread/INFO]: Quiting UI thread

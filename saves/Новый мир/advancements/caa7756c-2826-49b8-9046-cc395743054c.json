@@ -1,0 +1,45 @@
+{
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lavender_field": "2022-10-12 15:35:02 +0300"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2022-10-12 15:35:11 +0300"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2022-10-12 15:35:11 +0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-10-12 15:35:11 +0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2022-10-12 15:35:11 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "lavender_field": "2022-10-12 15:35:02 +0300"
+    },
+    "done": false
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2022-10-12 15:35:11 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
